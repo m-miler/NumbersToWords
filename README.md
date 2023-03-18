@@ -6,9 +6,8 @@
 
 ## General Info
 
-<details>
-Simple console application which allows to covert a number into a word representation in Polish. 
-</details>
+<p> Simple console application which allows to covert a number into a word representation in Polish. </p>
+
 
 ## Technologies
 <ul>
